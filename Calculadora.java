@@ -27,7 +27,6 @@
         Calculadora calc = new Calculadora();
         System.out.println("Subtração: " + calc.calcular("subtracao", 10, 5));
         System.out.println("Multiplicação: " + calc.calcular("multiplicacao", 10, 5));
-=======
         System.out.println("Divisão: " + calc.calcular("divisao", 10, 5));
     }
 }
